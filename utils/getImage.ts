@@ -1,4 +1,3 @@
-// utils/getImage.ts
 const imageMap: Record<string, any> = {
     'dates.png': require('../assets/images/dates.png'),
     'honey.png': require('../assets/images/dates.png'),
