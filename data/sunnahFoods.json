@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dates",
+    "arabicName": "تمر (Tamr)",
+    "image": "dates.png",
+    "reference": "The Prophet (ﷺ) said: 'A house without dates is a house without food.'",
+    "benefits": "Dates are rich in fiber, antioxidants, and essential vitamins like potassium and magnesium. They help with digestion and provide long-lasting energy.",
+    "relatedRecipes": [
+      {
+        "id": 2,
+        "name": "Date and Honey Cake"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Honey",
+    "arabicName": "عسل (Asal)",
+    "image": "honey.png",
+    "reference": "The Prophet (ﷺ) said: 'Honey is a cure for every disease.'",
+    "benefits": "Honey has antibacterial and anti-inflammatory properties, and it's known for its ability to boost the immune system and soothe sore throats.",
+    "relatedRecipes": [
+      {
+        "id": 2,
+        "name": "Date and Honey Cake"
+      },
+      {
+        "id": 5,
+        "name": "Pomegranate and Chicken Stew"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Olives",
+    "arabicName": "زيتون (Zaytoun)",
+    "image": "olives.png",
+    "reference": "The Prophet (ﷺ) said: 'Eat olive oil and use it on your hair and skin, for it is a blessed tree.'",
+    "benefits": "Olives are rich in healthy fats, antioxidants, and vitamins, which help reduce inflammation, improve heart health, and nourish skin.",
+    "relatedRecipes": [
+      {
+        "id": 4,
+        "name": "Fig and Olive Salad"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Figs",
+    "arabicName": "تين (Teen)",
+    "image": "figs.png",
+    "reference": "The Quran mentions: 'By the fig and the olive.' (Quran 95:1)",
+    "benefits": "Figs are a rich source of fiber, antioxidants, and minerals like calcium and magnesium. They promote digestive health and are good for heart health.",
+    "relatedRecipes": [
+      {
+        "id": 4,
+        "name": "Fig and Olive Salad"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pomegranate",
+    "arabicName": "رمان (Rumman)",
+    "image": "pomegranate.png",
+    "reference": "The Quran mentions: 'In them [Gardens] will be fruits, and dates and pomegranates.' (Quran 55:68)",
+    "benefits": "Pomegranates are rich in antioxidants, vitamins, and minerals, particularly Vitamin C and potassium. They are known for their anti-inflammatory and heart-protective properties.",
+    "relatedRecipes": [
+      {
+        "id": 5,
+        "name": "Pomegranate and Chicken Stew"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Barley",
+    "arabicName": "شعير (Sha'ir)",
+    "image": "barley.png",
+    "reference": "The Prophet (ﷺ) said: 'Barley is a healing food.'",
+    "benefits": "Barley is a whole grain rich in fiber, vitamins, and minerals like magnesium. It supports heart health, helps with weight loss, and regulates blood sugar levels.",
+    "relatedRecipes": [
+      {
+        "id": 3,
+        "name": "Lamb and Barley Soup"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Lamb",
+    "arabicName": "لحم (Lahm)",
+    "image": "lamb.png",
+    "reference": "The Prophet (ﷺ) said: 'The best meat is the meat of lamb.'",
+    "benefits": "Lamb is a rich source of high-quality protein, essential vitamins like B12, and minerals like iron and zinc. It's good for muscle growth, bone health, and immunity.",
+    "relatedRecipes": [
+      {
+        "id": 3,
+        "name": "Lamb and Barley Soup"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chicken",
+    "arabicName": "دجاج (Dajaj)",
+    "image": "chicken.png",
+    "reference": "The Prophet (ﷺ) said: 'Eat chicken for it is beneficial.'",
+    "benefits": "Chicken is a great source of lean protein, essential amino acids, and B vitamins. It's low in fat and helps maintain muscle mass, skin health, and metabolism.",
+    "relatedRecipes": [
+      {
+        "id": 5,
+        "name": "Pomegranate and Chicken Stew"
+      },
+      {
+        "id": 1,
+        "name": "Chicken Biryani"
+      }
+    ]
+  }
+]
