@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "Ummah Halal Bite",
-    "slug": "ummah-halal-bite",
+    "slug": "halal-bite",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
-    "scheme": "ummah-halal-bite",
+    "scheme": "halal-bite",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -36,6 +36,21 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e3d27bc1-a611-403d-85c9-8aa389a00693"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e3d27bc1-a611-403d-85c9-8aa389a00693"
+    },
+    "owner": "limitless-it-solutions",
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }

@@ -1,483 +1,742 @@
 [
-    {
-      "id": 1,
-      "name": "Chicken Biryani",
-      "description": "A fragrant and flavorful rice dish with marinated chicken, aromatic spices, and herbs.",
-      "image": "date.png",
-      "prepTime": 60,
-      "servings": 4,
-      "categories": ["Main Dish", "Sunnah"],
-      "ingredients": [
-        {
-          "name": "basmati rice",
-          "amount": 2,
-          "unit": "cups"
-        },
-        {
-          "name": "chicken pieces",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "yogurt",
-          "amount": 1,
-          "unit": "cup"
-        },
-        {
-          "name": "onions, thinly sliced",
-          "amount": 2,
-          "unit": "large"
-        },
-        {
-          "name": "tomatoes, chopped",
-          "amount": 2,
-          "unit": "medium"
-        },
-        {
-          "name": "ginger paste",
-          "amount": 1,
-          "unit": "tbsp"
-        },
-        {
-          "name": "garlic paste",
-          "amount": 1,
-          "unit": "tbsp"
-        },
-        {
-          "name": "green chilies",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "turmeric powder",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "coriander powder",
-          "amount": 1,
-          "unit": "tbsp"
-        },
-        {
-          "name": "cumin powder",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "garam masala",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "fresh coriander leaves",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "fresh mint leaves",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "saffron strands",
-          "amount": 1,
-          "unit": "pinch"
-        },
-        {
-          "name": "warm milk",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "ghee or oil",
-          "amount": 3,
-          "unit": "tbsp"
-        },
-        {
-          "name": "salt",
-          "amount": 1,
-          "unit": "to taste"
-        }
-      ],
-      "instructions": [
-        "Wash the rice and soak it for 30 minutes. Drain and set aside.",
-        "Marinate the chicken with yogurt, half of the ginger-garlic paste, turmeric, and salt for at least 30 minutes.",
-        "In a large pot, heat ghee or oil and fry the sliced onions until golden brown. Remove half and set aside for garnish.",
-        "Add the remaining ginger-garlic paste, green chilies, and tomatoes. Sauté until tomatoes are soft.",
-        "Add the marinated chicken, coriander powder, cumin powder, and salt. Cook until chicken is almost done.",
-        "In another pot, bring water to a boil. Add the soaked rice, salt, and some whole spices. Cook until rice is 70% done. Drain.",
-        "Soak saffron in warm milk for 10 minutes.",
-        "Layer the partially cooked rice over the chicken. Sprinkle with garam masala, saffron milk, fried onions, fresh coriander, and mint leaves.",
-        "Cover with a tight lid and cook on low heat for 20 minutes or until rice is fully cooked.",
-        "Gently mix all the layers before serving."
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Date and Honey Cake",
-      "description": "A moist and delicious cake made with dates and honey, two foods mentioned in the Quran.",
-      "image": "/placeholder.svg?height=300&width=400",
-      "prepTime": 45,
-      "servings": 8,
-      "categories": ["Dessert", "Sunnah"],
-      "ingredients": [
-        {
-          "name": "pitted dates",
-          "amount": 1,
-          "unit": "cup"
-        },
-        {
-          "name": "hot water",
-          "amount": 1,
-          "unit": "cup"
-        },
-        {
-          "name": "honey",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "butter, softened",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "eggs",
-          "amount": 2,
-          "unit": "large"
-        },
-        {
-          "name": "vanilla extract",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "all-purpose flour",
-          "amount": 1.5,
-          "unit": "cups"
-        },
-        {
-          "name": "baking soda",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "baking powder",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "salt",
-          "amount": 0.25,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground cinnamon",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground nutmeg",
-          "amount": 0.25,
-          "unit": "tsp"
-        },
-        {
-          "name": "walnuts, chopped (optional)",
-          "amount": 0.5,
-          "unit": "cup"
-        }
-      ],
-      "instructions": [
-        "Preheat oven to 350°F (175°C). Grease and flour a 9-inch cake pan.",
-        "In a bowl, pour hot water over dates and let them soak for 15 minutes until soft.",
-        "In a large mixing bowl, cream together butter and honey until light and fluffy.",
-        "Add eggs one at a time, beating well after each addition. Stir in vanilla extract.",
-        "In another bowl, whisk together flour, baking soda, baking powder, salt, cinnamon, and nutmeg.",
-        "Mash the soaked dates with a fork and add them to the butter mixture along with the soaking water.",
-        "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
-        "If using, fold in the chopped walnuts.",
-        "Pour the batter into the prepared cake pan and smooth the top.",
-        "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
-        "Allow the cake to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.",
-        "Optionally, drizzle with additional honey before serving."
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Lamb and Barley Soup",
-      "description": "A hearty and nutritious soup combining lamb with barley, a grain mentioned in the Quran.",
-      "image": "/placeholder.svg?height=300&width=400",
-      "prepTime": 90,
-      "servings": 6,
-      "categories": ["Main Dish", "Sunnah"],
-      "ingredients": [
-        {
-          "name": "lamb shoulder, cubed",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "olive oil",
-          "amount": 2,
-          "unit": "tbsp"
-        },
-        {
-          "name": "onions, diced",
-          "amount": 2,
-          "unit": "medium"
-        },
-        {
-          "name": "carrots, diced",
-          "amount": 2,
-          "unit": "large"
-        },
-        {
-          "name": "celery stalks, diced",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "garlic cloves, minced",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "pearl barley, rinsed",
-          "amount": 0.75,
-          "unit": "cup"
-        },
-        {
-          "name": "tomatoes, diced",
-          "amount": 2,
-          "unit": "large"
-        },
-        {
-          "name": "chicken or vegetable broth",
-          "amount": 8,
-          "unit": "cups"
-        },
-        {
-          "name": "bay leaves",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "ground cumin",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground coriander",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "dried thyme",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "fresh parsley, chopped",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "lemon juice",
-          "amount": 2,
-          "unit": "tbsp"
-        },
-        {
-          "name": "salt and pepper",
-          "amount": 1,
-          "unit": "to taste"
-        }
-      ],
-      "instructions": [
-        "In a large pot, heat olive oil over medium-high heat. Add lamb cubes and brown on all sides. Remove and set aside.",
-        "In the same pot, add onions, carrots, and celery. Sauté until vegetables begin to soften, about 5 minutes.",
-        "Add garlic and cook for another minute until fragrant.",
-        "Return the lamb to the pot. Add barley, diced tomatoes, broth, bay leaves, cumin, coriander, and thyme.",
-        "Bring to a boil, then reduce heat to low. Cover and simmer for about 1 hour, or until lamb and barley are tender.",
-        "Remove bay leaves. Stir in fresh parsley and lemon juice.",
-        "Season with salt and pepper to taste.",
-        "Serve hot, garnished with additional fresh parsley if desired."
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Fig and Olive Salad",
-      "description": "A refreshing salad featuring figs and olives, both mentioned in the Quran as blessed foods.",
-      "image": "/placeholder.svg?height=300&width=400",
-      "prepTime": 20,
-      "servings": 4,
-      "categories": ["Appetizer", "Sunnah"],
-      "ingredients": [
-        {
-          "name": "fresh figs, quartered",
-          "amount": 8,
-          "unit": ""
-        },
-        {
-          "name": "mixed salad greens",
-          "amount": 6,
-          "unit": "cups"
-        },
-        {
-          "name": "kalamata olives, pitted",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "cucumber, sliced",
-          "amount": 1,
-          "unit": "medium"
-        },
-        {
-          "name": "red onion, thinly sliced",
-          "amount": 0.25,
-          "unit": "small"
-        },
-        {
-          "name": "feta cheese, crumbled",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "walnuts, chopped",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "extra virgin olive oil",
-          "amount": 3,
-          "unit": "tbsp"
-        },
-        {
-          "name": "balsamic vinegar",
-          "amount": 2,
-          "unit": "tbsp"
-        },
-        {
-          "name": "honey",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "Dijon mustard",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "salt and pepper",
-          "amount": 1,
-          "unit": "to taste"
-        }
-      ],
-      "instructions": [
-        "In a large salad bowl, combine the mixed greens, quartered figs, olives, cucumber slices, and red onion.",
-        "In a small bowl, whisk together olive oil, balsamic vinegar, honey, Dijon mustard, salt, and pepper to make the dressing.",
-        "Drizzle the dressing over the salad and toss gently to coat.",
-        "Sprinkle with crumbled feta cheese and chopped walnuts.",
-        "Serve immediately as a refreshing appetizer or side dish."
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Pomegranate and Chicken Stew",
-      "description": "A sweet and tangy stew featuring pomegranate, a fruit mentioned in the Quran as a blessing.",
-      "image": "/placeholder.svg?height=300&width=400",
-      "prepTime": 75,
-      "servings": 4,
-      "categories": ["Main Dish", "Sunnah"],
-      "ingredients": [
-        {
-          "name": "chicken thighs, bone-in",
-          "amount": 8,
-          "unit": ""
-        },
-        {
-          "name": "olive oil",
-          "amount": 2,
-          "unit": "tbsp"
-        },
-        {
-          "name": "onions, diced",
-          "amount": 2,
-          "unit": "medium"
-        },
-        {
-          "name": "garlic cloves, minced",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "ground cinnamon",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground cumin",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground coriander",
-          "amount": 1,
-          "unit": "tsp"
-        },
-        {
-          "name": "ground turmeric",
-          "amount": 0.5,
-          "unit": "tsp"
-        },
-        {
-          "name": "pomegranate juice",
-          "amount": 2,
-          "unit": "cups"
-        },
-        {
-          "name": "chicken broth",
-          "amount": 1,
-          "unit": "cup"
-        },
-        {
-          "name": "honey",
-          "amount": 2,
-          "unit": "tbsp"
-        },
-        {
-          "name": "walnuts, chopped",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "pomegranate seeds",
-          "amount": 0.5,
-          "unit": "cup"
-        },
-        {
-          "name": "fresh mint leaves, chopped",
-          "amount": 0.25,
-          "unit": "cup"
-        },
-        {
-          "name": "salt and pepper",
-          "amount": 1,
-          "unit": "to taste"
-        }
-      ],
-      "instructions": [
-        "Season chicken thighs with salt and pepper.",
-        "In a large pot or Dutch oven, heat olive oil over medium-high heat. Add chicken and brown on all sides, about 5 minutes per side. Remove and set aside.",
-        "In the same pot, add onions and sauté until translucent, about 5 minutes.",
-        "Add garlic, cinnamon, cumin, coriander, and turmeric. Cook for 1 minute until fragrant.",
-        "Pour in pomegranate juice and chicken broth, scraping up any browned bits from the bottom of the pot.",
-        "Add honey and stir to combine. Return chicken to the pot.",
-        "Bring to a boil, then reduce heat to low. Cover and simmer for about 45 minutes, or until chicken is tender and cooked through.",
-        "Remove chicken and increase heat to medium-high. Simmer the sauce until reduced and slightly thickened, about 10 minutes.",
-        "Return chicken to the pot and add chopped walnuts. Heat through for 5 minutes.",
-        "Serve garnished with fresh pomegranate seeds and chopped mint leaves."
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "description": "A fragrant and flavorful rice dish with marinated chicken, aromatic spices, and herbs.",
+    "image": "date.png",
+    "prepTime": 60,
+    "servings": 4,
+    "categories": [
+      "Main Dish",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "chicken pieces",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "yogurt",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "onions, thinly sliced",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "tomatoes, chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger paste",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic paste",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chilies",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cumin powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander leaves",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "fresh mint leaves",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "saffron strands",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "warm milk",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "ghee or oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "to taste"
+      }
+    ],
+    "instructions": [
+      "Wash the rice and soak it for 30 minutes. Drain and set aside.",
+      "Marinate the chicken with yogurt, half of the ginger-garlic paste, turmeric, and salt for at least 30 minutes.",
+      "In a large pot, heat ghee or oil and fry the sliced onions until golden brown. Remove half and set aside for garnish.",
+      "Add the remaining ginger-garlic paste, green chilies, and tomatoes. Sauté until tomatoes are soft.",
+      "Add the marinated chicken, coriander powder, cumin powder, and salt. Cook until chicken is almost done.",
+      "In another pot, bring water to a boil. Add the soaked rice, salt, and some whole spices. Cook until rice is 70% done. Drain.",
+      "Soak saffron in warm milk for 10 minutes.",
+      "Layer the partially cooked rice over the chicken. Sprinkle with garam masala, saffron milk, fried onions, fresh coriander, and mint leaves.",
+      "Cover with a tight lid and cook on low heat for 20 minutes or until rice is fully cooked.",
+      "Gently mix all the layers before serving."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Date and Honey Cake",
+    "description": "A moist and delicious cake made with dates and honey, two foods mentioned in the Quran.",
+    "image": "dates.png",
+    "prepTime": 45,
+    "servings": 8,
+    "categories": [
+      "Dessert",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "pitted dates",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "hot water",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "honey",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "butter, softened",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground nutmeg",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "walnuts, chopped (optional)",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour a 9-inch cake pan.",
+      "In a bowl, pour hot water over dates and let them soak for 15 minutes until soft.",
+      "In a large mixing bowl, cream together butter and honey until light and fluffy.",
+      "Add eggs one at a time, beating well after each addition. Stir in vanilla extract.",
+      "In another bowl, whisk together flour, baking soda, baking powder, salt, cinnamon, and nutmeg.",
+      "Mash the soaked dates with a fork and add them to the butter mixture along with the soaking water.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+      "If using, fold in the chopped walnuts.",
+      "Pour the batter into the prepared cake pan and smooth the top.",
+      "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Allow the cake to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.",
+      "Optionally, drizzle with additional honey before serving."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lamb and Barley Soup",
+    "description": "A hearty and nutritious soup combining lamb with barley, a grain mentioned in the Quran.",
+    "image": "dates.png",
+    "prepTime": 90,
+    "servings": 6,
+    "categories": [
+      "Main Dish",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "lamb shoulder, cubed",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onions, diced",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "carrots, diced",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "celery stalks, diced",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic cloves, minced",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "pearl barley, rinsed",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "tomatoes, diced",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "chicken or vegetable broth",
+        "amount": 8,
+        "unit": "cups"
+      },
+      {
+        "name": "bay leaves",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "dried thyme",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1,
+        "unit": "to taste"
+      }
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium-high heat. Add lamb cubes and brown on all sides. Remove and set aside.",
+      "In the same pot, add onions, carrots, and celery. Sauté until vegetables begin to soften, about 5 minutes.",
+      "Add garlic and cook for another minute until fragrant.",
+      "Return the lamb to the pot. Add barley, diced tomatoes, broth, bay leaves, cumin, coriander, and thyme.",
+      "Bring to a boil, then reduce heat to low. Cover and simmer for about 1 hour, or until lamb and barley are tender.",
+      "Remove bay leaves. Stir in fresh parsley and lemon juice.",
+      "Season with salt and pepper to taste.",
+      "Serve hot, garnished with additional fresh parsley if desired."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fig and Olive Salad",
+    "description": "A refreshing salad featuring figs and olives, both mentioned in the Quran as blessed foods.",
+    "image": "dates.png",
+    "prepTime": 20,
+    "servings": 4,
+    "categories": [
+      "Appetizer",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "fresh figs, quartered",
+        "amount": 8,
+        "unit": ""
+      },
+      {
+        "name": "mixed salad greens",
+        "amount": 6,
+        "unit": "cups"
+      },
+      {
+        "name": "kalamata olives, pitted",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cucumber, sliced",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "red onion, thinly sliced",
+        "amount": 0.25,
+        "unit": "small"
+      },
+      {
+        "name": "feta cheese, crumbled",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "walnuts, chopped",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "balsamic vinegar",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "honey",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "Dijon mustard",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1,
+        "unit": "to taste"
+      }
+    ],
+    "instructions": [
+      "In a large salad bowl, combine the mixed greens, quartered figs, olives, cucumber slices, and red onion.",
+      "In a small bowl, whisk together olive oil, balsamic vinegar, honey, Dijon mustard, salt, and pepper to make the dressing.",
+      "Drizzle the dressing over the salad and toss gently to coat.",
+      "Sprinkle with crumbled feta cheese and chopped walnuts.",
+      "Serve immediately as a refreshing appetizer or side dish."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pomegranate and Chicken Stew",
+    "description": "A sweet and tangy stew featuring pomegranate, a fruit mentioned in the Quran as a blessing.",
+    "image": "dates.png",
+    "prepTime": 75,
+    "servings": 4,
+    "categories": [
+      "Main Dish",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken thighs, bone-in",
+        "amount": 8,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onions, diced",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "garlic cloves, minced",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground turmeric",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pomegranate juice",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "chicken broth",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "honey",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "walnuts, chopped",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "pomegranate seeds",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "fresh mint leaves, chopped",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1,
+        "unit": "to taste"
+      }
+    ],
+    "instructions": [
+      "Season chicken thighs with salt and pepper.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat. Add chicken and brown on all sides, about 5 minutes per side. Remove and set aside.",
+      "In the same pot, add onions and sauté until translucent, about 5 minutes.",
+      "Add garlic, cinnamon, cumin, coriander, and turmeric. Cook for 1 minute until fragrant.",
+      "Pour in pomegranate juice and chicken broth, scraping up any browned bits from the bottom of the pot.",
+      "Add honey and stir to combine. Return chicken to the pot.",
+      "Bring to a boil, then reduce heat to low. Cover and simmer for about 45 minutes, or until chicken is tender and cooked through.",
+      "Remove chicken and increase heat to medium-high. Simmer the sauce until reduced and slightly thickened, about 10 minutes.",
+      "Return chicken to the pot and add chopped walnuts. Heat through for 5 minutes.",
+      "Serve garnished with fresh pomegranate seeds and chopped mint leaves."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Spiced Lamb Kofta",
+    "description": "Flavorful lamb koftas seasoned with aromatic spices and grilled to perfection.",
+    "image": "dates.png",
+    "prepTime": 60,
+    "servings": 4,
+    "categories": [
+      "Main Dish",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "ground lamb",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "onion, grated",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "garlic cloves, minced",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground turmeric",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1,
+        "unit": "to taste"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "wooden skewers",
+        "amount": 4,
+        "unit": ""
+      }
+    ],
+    "instructions": [
+      "In a large bowl, combine ground lamb, grated onion, minced garlic, parsley, cumin, coriander, cinnamon, turmeric, salt, and pepper.",
+      "Mix thoroughly until well combined.",
+      "Divide the mixture into 4 equal portions and shape each into a long oval or sausage shape around a skewer.",
+      "Heat olive oil in a grill pan or barbecue grill over medium-high heat.",
+      "Grill the koftas for about 4-5 minutes per side, or until browned and cooked through.",
+      "Serve with a side of couscous, flatbread, or a fresh salad."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dates and Almond Energy Balls",
+    "description": "Nutritious and sweet energy balls made with dates, almonds, and a hint of cinnamon.",
+    "image": "dates.png",
+    "prepTime": 20,
+    "servings": 12,
+    "categories": [
+      "Snack",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "dates, pitted",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "almonds, chopped",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "rolled oats",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "honey",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chia seeds",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "unsweetened coconut flakes (optional)",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "In a food processor, combine the dates, chopped almonds, rolled oats, cinnamon, honey, and chia seeds.",
+      "Pulse until the mixture is well combined and starts to come together.",
+      "Roll the mixture into small balls, about 1 inch in diameter.",
+      "If desired, roll the balls in coconut flakes for extra texture.",
+      "Refrigerate the energy balls for at least 30 minutes before serving.",
+      "Enjoy as a healthy snack or a pre-workout boost."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pineapple and Date Smoothie",
+    "description": "A refreshing smoothie made with pineapple and dates, perfect for a healthy start to your day.",
+    "image": "dates.png",
+    "prepTime": 10,
+    "servings": 2,
+    "categories": [
+      "Drink",
+      "Sunnah"
+    ],
+    "ingredients": [
+      {
+        "name": "pineapple chunks, frozen",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "dates, pitted",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "coconut water",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "fresh mint leaves",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "In a blender, combine the frozen pineapple, dates, coconut water, mint leaves, and lime juice.",
+      "Blend until smooth and creamy.",
+      "Pour into glasses and garnish with extra mint leaves if desired.",
+      "Serve chilled as a refreshing and nutritious drink."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Couscous with Roasted Vegetables",
+    "description": "A light and flavorful dish featuring couscous and a variety of roasted vegetables.",
+    "image": "dates.png",
+    "prepTime": 40,
+    "servings": 4,
+    "categories": [
+      "Main Dish",
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "couscous",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "zucchini, chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "red bell pepper, chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "eggplant, chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 1,
+        "unit": "to taste"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amount": 0.25,
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 400°F (200°C). Toss chopped zucchini, bell pepper, and eggplant with olive oil, cumin, coriander, salt, and pepper.",
+      "Spread the vegetables on a baking sheet in a single layer and roast for 25-30 minutes, or until tender and lightly browned.",
+      "Meanwhile, prepare the couscous according to package instructions.",
+      "Once the vegetables are done, combine them with the couscous and garnish with fresh parsley.",
+      "Serve as a side dish or light main course."
+    ]
+  }
+]

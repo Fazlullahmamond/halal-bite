@@ -66,6 +66,7 @@ export default function RecipesIndex() {
           <TextInput
             style={styles.searchInput}
             placeholder="Search recipes..."
+            placeholderTextColor="#666"
             value={searchQuery}
             onChangeText={setSearchQuery}
           />

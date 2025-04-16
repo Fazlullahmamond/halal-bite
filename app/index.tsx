@@ -33,7 +33,6 @@ export default function Home() {
     { title: "Meal Planner", icon: <Calendar size={24} color="#5C8D89" />, route: "/meal-planner" },
     { title: "Favorites", icon: <Heart size={24} color="#5C8D89" />, route: "/favorites" },
     { title: "Glossary", icon: <Book size={24} color="#5C8D89" />, route: "/glossary" },
-    { title: "Settings", icon: <Settings size={24} color="#5C8D89" />, route: "/settings" },
   ]
 
   const quotes = [
@@ -44,7 +43,6 @@ export default function Home() {
   ]
 
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)]
-
   return (
     <View style={styles.container}>
       <StatusBar style="auto" />
@@ -53,6 +51,12 @@ export default function Home() {
           <Image source={require("../assets/images/logo.png")} style={styles.logo} resizeMode="contain" />
           <Text style={styles.title}>HalalBite</Text>
           <Text style={styles.subtitle}>Halal Cooking Made Easy</Text>
+          <Pressable
+            style={{ position: "absolute", top: -10, right: 10 }}
+            onPress={() => router.push("/settings")}
+          >
+            <Settings size={30} color="#5C8D89" />
+          </Pressable>
         </View>
 
         <View style={styles.quoteContainer}>

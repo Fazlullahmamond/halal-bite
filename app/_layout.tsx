@@ -1,10 +1,11 @@
 import React from 'react';
-import { SafeAreaView, StyleSheet } from 'react-native';
+import { SafeAreaView, StyleSheet, StatusBar } from 'react-native';
 import { Stack } from 'expo-router';
 
 export default function Layout() {
   return (
     <SafeAreaView style={styles.safeArea}>
+      <StatusBar backgroundColor="black" />
       <Stack
         screenOptions={{
           gestureEnabled: true,     // ✅ swipe from left to go back
@@ -19,6 +20,6 @@ export default function Layout() {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: '#fff', // optional
+    backgroundColor: '#F8F9FA', // Updated background color
   },
 });

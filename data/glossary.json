@@ -1,103 +1,152 @@
 [
-    {
-      "term": "Halal",
-      "arabicTerm": "حلال",
-      "definition": "Permissible or lawful in Islamic law. For food, it refers to what Muslims are allowed to consume according to Islamic dietary guidelines."
-    },
-    {
-      "term": "Haram",
-      "arabicTerm": "حرام",
-      "definition": "Forbidden or unlawful in Islamic law. Foods that Muslims are prohibited from consuming, such as pork and alcohol."
-    },
-    {
-      "term": "Bismillah",
-      "arabicTerm": "بسم الله",
-      "definition": "Meaning 'In the name of Allah.' Muslims say this before eating, cooking, and starting any activity."
-    },
-    {
-      "term": "Dhabihah",
-      "arabicTerm": "ذبيحة",
-      "definition": "The Islamic method of slaughtering animals for meat consumption. The animal must be alive and healthy, and Allah's name must be pronounced during slaughter."
-    },
-    {
-      "term": "Zabiha",
-      "arabicTerm": "ذبيحة",
-      "definition": "Another term for meat that has been slaughtered according to Islamic law."
-    },
-    {
-      "term": "Mashbooh",
-      "arabicTerm": "مشبوه",
-      "definition": "Doubtful or questionable. Refers to food items whose halal status is unclear or uncertain."
-    },
-    {
-      "term": "Makrooh",
-      "arabicTerm": "مكروه",
-      "definition": "Disliked or discouraged, but not forbidden. In food context, it refers to items that are better to avoid but not sinful if consumed."
-    },
-    {
-      "term": "Tayyib",
-      "arabicTerm": "طيب",
-      "definition": "Pure, wholesome, and good. The Quran instructs Muslims to eat what is halal and tayyib, meaning not only permissible but also clean and healthy."
-    },
-    {
-      "term": "Iftar",
-      "arabicTerm": "إفطار",
-      "definition": "The meal eaten after sunset during Ramadan to break the day's fast. Traditionally begins with dates and water."
-    },
-    {
-      "term": "Suhoor",
-      "arabicTerm": "سحور",
-      "definition": "The pre-dawn meal consumed before fasting begins during Ramadan."
-    },
-    {
-      "term": "Barakah",
-      "arabicTerm": "بركة",
-      "definition": "Blessing or divine grace. In food context, it refers to the blessing in the food that provides spiritual and physical nourishment."
-    },
-    {
-      "term": "Zaatar",
-      "arabicTerm": "زعتر",
-      "definition": "A Middle Eastern spice blend typically containing dried thyme, oregano, marjoram, sumac, and toasted sesame seeds."
-    },
-    {
-      "term": "Sumac",
-      "arabicTerm": "سماق",
-      "definition": "A tangy, lemony spice made from dried and ground berries of the sumac bush, commonly used in Middle Eastern cuisine."
-    },
-    {
-      "term": "Tahini",
-      "arabicTerm": "طحينة",
-      "definition": "A paste made from ground sesame seeds, commonly used in hummus, baba ghanoush, and halva."
-    },
-    {
-      "term": "Ghee",
-      "arabicTerm": "سمن",
-      "definition": "Clarified butter that has been simmered to remove water and separate milk solids, which are removed to leave a pure butterfat."
-    },
-    {
-      "term": "Harissa",
-      "arabicTerm": "هريسة",
-      "definition": "A hot chili pepper paste used in North African and Middle Eastern cooking, made from roasted red peppers, spices, and herbs."
-    },
-    {
-      "term": "Ras el Hanout",
-      "arabicTerm": "راس الحانوت",
-      "definition": "A complex North African spice blend that can contain dozens of spices, including cardamom, clove, cinnamon, and rose petals."
-    },
-    {
-      "term": "Baharat",
-      "arabicTerm": "بهارات",
-      "definition": "An all-purpose spice blend used in Middle Eastern cooking, typically including black pepper, cumin, cinnamon, and cloves."
-    },
-    {
-      "term": "Dukkah",
-      "arabicTerm": "دقة",
-      "definition": "An Egyptian condiment consisting of a mixture of herbs, nuts, and spices, typically used as a dip with bread or fresh vegetables."
-    },
-    {
-      "term": "Labneh",
-      "arabicTerm": "لبنة",
-      "definition": "A soft cheese made from strained yogurt, popular in Middle Eastern cuisine. It has a tangy taste similar to Greek yogurt but with a thicker consistency."
-    }
-  ]
-  
+  {
+    "term": "Halal",
+    "arabicTerm": "حلال",
+    "definition": "Permissible or lawful in Islamic law. For food, it refers to what Muslims are allowed to consume according to Islamic dietary guidelines."
+  },
+  {
+    "term": "Haram",
+    "arabicTerm": "حرام",
+    "definition": "Forbidden or unlawful in Islamic law. Foods that Muslims are prohibited from consuming, such as pork and alcohol."
+  },
+  {
+    "term": "Bismillah",
+    "arabicTerm": "بسم الله",
+    "definition": "Meaning 'In the name of Allah.' Muslims say this before eating, cooking, and starting any activity."
+  },
+  {
+    "term": "Dhabihah",
+    "arabicTerm": "ذبيحة",
+    "definition": "The Islamic method of slaughtering animals for meat consumption. The animal must be alive and healthy, and Allah's name must be pronounced during slaughter."
+  },
+  {
+    "term": "Zabiha",
+    "arabicTerm": "ذبيحة",
+    "definition": "Another term for meat that has been slaughtered according to Islamic law."
+  },
+  {
+    "term": "Mashbooh",
+    "arabicTerm": "مشبوه",
+    "definition": "Doubtful or questionable. Refers to food items whose halal status is unclear or uncertain."
+  },
+  {
+    "term": "Makrooh",
+    "arabicTerm": "مكروه",
+    "definition": "Disliked or discouraged, but not forbidden. In food context, it refers to items that are better to avoid but not sinful if consumed."
+  },
+  {
+    "term": "Tayyib",
+    "arabicTerm": "طيب",
+    "definition": "Pure, wholesome, and good. The Quran instructs Muslims to eat what is halal and tayyib, meaning not only permissible but also clean and healthy."
+  },
+  {
+    "term": "Iftar",
+    "arabicTerm": "إفطار",
+    "definition": "The meal eaten after sunset during Ramadan to break the day's fast. Traditionally begins with dates and water."
+  },
+  {
+    "term": "Suhoor",
+    "arabicTerm": "سحور",
+    "definition": "The pre-dawn meal consumed before fasting begins during Ramadan."
+  },
+  {
+    "term": "Barakah",
+    "arabicTerm": "بركة",
+    "definition": "Blessing or divine grace. In food context, it refers to the blessing in the food that provides spiritual and physical nourishment."
+  },
+  {
+    "term": "Zaatar",
+    "arabicTerm": "زعتر",
+    "definition": "A Middle Eastern spice blend typically containing dried thyme, oregano, marjoram, sumac, and toasted sesame seeds."
+  },
+  {
+    "term": "Sumac",
+    "arabicTerm": "سماق",
+    "definition": "A tangy, lemony spice made from dried and ground berries of the sumac bush, commonly used in Middle Eastern cuisine."
+  },
+  {
+    "term": "Tahini",
+    "arabicTerm": "طحينة",
+    "definition": "A paste made from ground sesame seeds, commonly used in hummus, baba ghanoush, and halva."
+  },
+  {
+    "term": "Ghee",
+    "arabicTerm": "سمن",
+    "definition": "Clarified butter that has been simmered to remove water and separate milk solids, which are removed to leave a pure butterfat."
+  },
+  {
+    "term": "Harissa",
+    "arabicTerm": "هريسة",
+    "definition": "A hot chili pepper paste used in North African and Middle Eastern cooking, made from roasted red peppers, spices, and herbs."
+  },
+  {
+    "term": "Ras el Hanout",
+    "arabicTerm": "راس الحانوت",
+    "definition": "A complex North African spice blend that can contain dozens of spices, including cardamom, clove, cinnamon, and rose petals."
+  },
+  {
+    "term": "Baharat",
+    "arabicTerm": "بهارات",
+    "definition": "An all-purpose spice blend used in Middle Eastern cooking, typically including black pepper, cumin, cinnamon, and cloves."
+  },
+  {
+    "term": "Dukkah",
+    "arabicTerm": "دقة",
+    "definition": "An Egyptian condiment consisting of a mixture of herbs, nuts, and spices, typically used as a dip with bread or fresh vegetables."
+  },
+  {
+    "term": "Labneh",
+    "arabicTerm": "لبنة",
+    "definition": "A soft cheese made from strained yogurt, popular in Middle Eastern cuisine. It has a tangy taste similar to Greek yogurt but with a thicker consistency."
+  },
+  {
+    "term": "Niyyah",
+    "arabicTerm": "نية",
+    "definition": "Intention. In Islam, it's important to make a clear intention before acts of worship, including fasting. Saying Bismillah before eating is an expression of niyyah."
+  },
+  {
+    "term": "Sunnah Foods",
+    "arabicTerm": "أطعمة السنة",
+    "definition": "Foods that the Prophet Muhammad (ﷺ) regularly consumed and recommended, such as dates, honey, barley, olives, and milk. Eating them is considered virtuous."
+  },
+  {
+    "term": "Ajwa Dates",
+    "arabicTerm": "عجوة",
+    "definition": "A type of date grown in Medina, highly valued in Islamic tradition. The Prophet (ﷺ) said eating seven Ajwa dates in the morning protects against poison and magic."
+  },
+  {
+    "term": "Miswak",
+    "arabicTerm": "مسواك",
+    "definition": "A natural toothbrush made from the Salvadora persica tree. Often used before eating and during fasting to maintain oral hygiene, as practiced by the Prophet (ﷺ)."
+  },
+  {
+    "term": "Khubz",
+    "arabicTerm": "خبز",
+    "definition": "Arabic word for bread. A staple in many Middle Eastern and North African meals, often eaten with hands as part of Sunnah etiquette."
+  },
+  {
+    "term": "Sadaqah",
+    "arabicTerm": "صدقة",
+    "definition": "Voluntary charity given to help others. Providing food to the poor or guests is a form of sadaqah and brings immense reward in Islam."
+  },
+  {
+    "term": "Adab al-Akl",
+    "arabicTerm": "آداب الأكل",
+    "definition": "Islamic etiquette of eating. Includes saying Bismillah, eating with the right hand, eating from what is directly in front of you, and not wasting food."
+  },
+  {
+    "term": "Zamzam Water",
+    "arabicTerm": "ماء زمزم",
+    "definition": "Holy water from the Zamzam well in Mecca. It is believed to have healing properties, and the Prophet (ﷺ) encouraged drinking it with specific intentions."
+  },
+  {
+    "term": "Nabidh",
+    "arabicTerm": "نبيذ",
+    "definition": "A traditional drink made from dates or raisins soaked in water. It was consumed by the Prophet (ﷺ) when not fermented and remained non-intoxicating."
+  },
+  {
+    "term": "Tamarind",
+    "arabicTerm": "تمر هندي",
+    "definition": "A tangy fruit used in many Middle Eastern and South Asian dishes. While not directly mentioned in Islamic texts, it's culturally significant in iftar drinks and stews."
+  }
+]

@@ -10,6 +10,14 @@
       {
         "id": 2,
         "name": "Date and Honey Cake"
+      },
+      {
+        "id": 7,
+        "name": "Dates and Almond Energy Balls"
+      },
+      {
+        "id": 8,
+        "name": "Pineapple and Date Smoothie"
       }
     ]
   },
@@ -28,6 +36,10 @@
       {
         "id": 5,
         "name": "Pomegranate and Chicken Stew"
+      },
+      {
+        "id": 7,
+        "name": "Dates and Almond Energy Balls"
       }
     ]
   },
@@ -42,6 +54,10 @@
       {
         "id": 4,
         "name": "Fig and Olive Salad"
+      },
+      {
+        "id": 9,
+        "name": "Couscous with Roasted Vegetables"
       }
     ]
   },
@@ -98,6 +114,10 @@
       {
         "id": 3,
         "name": "Lamb and Barley Soup"
+      },
+      {
+        "id": 6,
+        "name": "Spiced Lamb Kofta"
       }
     ]
   },
@@ -116,6 +136,66 @@
       {
         "id": 1,
         "name": "Chicken Biryani"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Almonds",
+    "arabicName": "لوز (Lauz)",
+    "image": "almonds.png",
+    "reference": "Mentioned in Islamic tradition as a source of sustenance and strength.",
+    "benefits": "Almonds are rich in healthy fats, vitamin E, magnesium, and protein. They support heart health, improve brain function, and help regulate blood sugar.",
+    "relatedRecipes": [
+      {
+        "id": 7,
+        "name": "Dates and Almond Energy Balls"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mint",
+    "arabicName": "نعناع (Na’na)",
+    "image": "mint.png",
+    "reference": "Used widely in prophetic medicine and traditional Islamic remedies for its cooling and calming properties.",
+    "benefits": "Mint aids in digestion, freshens breath, and has soothing effects on the stomach and nerves.",
+    "relatedRecipes": [
+      {
+        "id": 8,
+        "name": "Pineapple and Date Smoothie"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Olive Oil",
+    "arabicName": "زيت الزيتون (Zayt Zaytoun)",
+    "image": "olive_oil.png",
+    "reference": "The Prophet (ﷺ) said: 'Eat olive oil and anoint yourselves with it, for it is from a blessed tree.'",
+    "benefits": "Olive oil is a healthy fat rich in antioxidants and monounsaturated fats. It reduces inflammation, supports heart health, and protects against chronic disease.",
+    "relatedRecipes": [
+      {
+        "id": 6,
+        "name": "Spiced Lamb Kofta"
+      },
+      {
+        "id": 9,
+        "name": "Couscous with Roasted Vegetables"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Couscous",
+    "arabicName": "كسكس (Kuskus)",
+    "image": "couscous.png",
+    "reference": "A staple in North African Islamic cultures, often served during special occasions and family meals.",
+    "benefits": "Couscous is a light grain made from semolina. It is low in fat, a source of plant-based protein, and provides selenium, which helps boost the immune system.",
+    "relatedRecipes": [
+      {
+        "id": 9,
+        "name": "Couscous with Roasted Vegetables"
       }
     ]
   }
